@@ -59,8 +59,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 ### SQL Command
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick** |
+|---|---|---|---|---|
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Soln.](../master/SQL-Command/196_Delete_Duplicate_Emails.sql) |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy |  [Soln.](../master/SQL-Command/627_Swap_Salary.sql) | 
 
@@ -69,8 +69,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 - Simple Join
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick** |
+|---|---|---|---|---|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Join/Simple-Join/175_Combine_Two_Tables.sql) |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | [Soln.](../master/Join/Simple-Join/181_Employees_Earning_More_Than_Their_Managers.sql) |
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Soln.](../master/Join/Simple-Join/183_Customers_Who_Never_Order.sql) |
@@ -113,8 +113,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 - Advanced Join 
 
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick** |
+|---|---|---|---|---|
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | [Soln.](../master/Join/Advanced-Join/180_Consecutive_Numbers.sql) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Soln.](../master/Join/Advanced-Join/196_Delete_Duplicate_Emails.sql) |
 | 534 | [Game Play Analysis III](https://leetcode.com/problems/game-play-analysis-iii/) | Medium | [Soln.](../master/Join/Advanced-Join/534_Game_Play_Analysis_III.sql) |
@@ -142,8 +142,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 - Simple Subquery
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick** |
+|---|---|---|---|---|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/176_Second_Highest_Salary.sql)|
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/183_Customers_Who_Never_Order.sql) |
 | 184 | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/) | Medium | [Soln.](../master/Subquery/Simple-Subquery/184_Department_Highest_Salary.sql) |
@@ -196,8 +196,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 -  Advanced Subquery
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick** |
+|---|---|---|---|---|
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/262_Trips_and_Users.sql) |
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/550_Game_Play_Analysis_IV.sql) |
 | 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/569_Median_Employee_Salary.sql) |
@@ -216,8 +216,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 -  Recursive CTE
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick** |
+|---|---|---|---|---|
 | 1270 | [All People Report to the Given Manager](https://leetcode.com/problems/all-people-report-to-the-given-manager/) | Medium | [Soln.](../master/Subquery/Recursive-CTE/1270_All_People_Report_to_the_Given_Manager.sql) | 
 | 1336 | [Number of Transactions per Visit](https://leetcode.com/problems/number-of-transactions-per-visit/) | Hard | [Soln.](../master/Subquery/Recursive-CTE/1336_Number_of_Transactions_per_Visit.sql) | 
 | 1384 | [Total Sales Amount by Year](https://leetcode.com/problems/total-sales-amount-by-year/) | Hard | [Soln.](../master/Subquery/Recursive-CTE/1384_Total_Sales_Amount_by_Year.sql) |
@@ -225,8 +225,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 ### Window Function
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick** |
+|---|---|---|---|---|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../master/Window-Function/176_Second_Highest_Salary.sql) |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Soln.](../master/Window-Function/177_Nth_Highest_Salary.sql) |
 | 178 | [Rank Scores](https://leetcode.com/problems/rank-scores/) | Medium | [Soln.](../master/Window-Function/178_Rank_Scores.sql) |
@@ -268,8 +268,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 ### CASE WHEN or IIF
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick** |
+|---|---|---|---|---|
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/CASE-WHEN/262_Trips_and_Users.sql) |
 | 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/CASE-WHEN/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
 | 608 | [Tree Node](https://leetcode.com/problems/tree-node/) | Medium | [Soln.](../master/CASE-WHEN/608_Tree_Node.sql) | 
@@ -296,8 +296,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 ### OFFSET FETCH
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick** |
+|---|---|---|---|---|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../blob/master/OFFSET-FETCH/176_Second_Highest_Salary.sql) |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Soln.](../master/OFFSET-FETCH/177_Nth_Highest_Salary.sql) |
 | 1321 | [Restaurant Growth](https://leetcode.com/problems/restaurant-growth/) | Medium | [Soln.](../master/OFFSET-FETCH/1321_Restaurant_Growth.sql) | 
@@ -305,8 +305,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 ### PIVOT and UNPIVOT
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick** |
+|---|---|---|---|---|
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | Medium |  [Soln.](../master/PIVOT-UNPIVOT/602_Friend_Requests_II_Who_Has_the_Most_Friends.sql) | 
 | 618 | [Students Report By Geography](https://leetcode.com/problems/students-report-by-geography/) | Hard | [Soln.](../master/PIVOT-UNPIVOT/618_Students_Report_By_Geography.sql) | 
 | 1179 | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table/) | Easy | [Soln.](../master/PIVOT-UNPIVOT/1179_Reformat_Department_Table.sql) | 
@@ -315,8 +315,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 ### Variable
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick** |
+|---|---|---|---|---|
 | 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/Variable/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
 | 1098 | [Unpopular Books](https://leetcode.com/problems/unpopular-books/) | Medium | [Soln.](../master/Variable/1098_Unpopular_Books.sql) | 
 | 1107 | [New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/) | Medium | [Soln.](../master/Variable/1107_New_Users_Daily_Count.sql) | 
@@ -325,8 +325,8 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 ## LeetCode SQL Questions by ID
 
- **#** | **Title** | **Difficulty** | **Solution** | 
-|---|---|---|---|
+ **#** | **Title** | **Difficulty** | **Solution** | **The Trick** |
+|---|---|---|---|---|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Questions_by_ID/175_Combine_Two_Tables.sql) |
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../master/Questions_by_ID/176_Second_Highest_Salary.sql) |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | Medium | [Soln.](../master/Questions_by_ID/177_Nth_Highest_Salary.sql) |
