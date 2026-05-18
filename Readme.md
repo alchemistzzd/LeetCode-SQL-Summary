@@ -36,7 +36,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 ### Basics
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick**
 |---|---|---|---|
 | 182 | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/) | Easy | [Soln.](../master/Basics/182_Duplicate_Emails.sql) |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | Easy | [Soln.](../master/Basics/511_Game_Play_Analysis_I.sql) |
