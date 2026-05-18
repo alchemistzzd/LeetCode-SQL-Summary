@@ -59,7 +59,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 ### SQL Command
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick**
 |---|---|---|---|
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Soln.](../master/SQL-Command/196_Delete_Duplicate_Emails.sql) |
 | 627 | [Swap Salary](https://leetcode.com/problems/swap-salary/) | Easy |  [Soln.](../master/SQL-Command/627_Swap_Salary.sql) | 
@@ -69,7 +69,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 - Simple Join
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick**
 |---|---|---|---|
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Soln.](../master/Join/Simple-Join/175_Combine_Two_Tables.sql) |
 | 181 | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers/) | Easy | [Soln.](../master/Join/Simple-Join/181_Employees_Earning_More_Than_Their_Managers.sql) |
@@ -113,7 +113,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 - Advanced Join 
 
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick**
 |---|---|---|---|
 | 180 | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers/) | Medium | [Soln.](../master/Join/Advanced-Join/180_Consecutive_Numbers.sql) |
 | 196 | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) | Easy | [Soln.](../master/Join/Advanced-Join/196_Delete_Duplicate_Emails.sql) |
@@ -142,7 +142,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 - Simple Subquery
 
-| **#** | **Title** | **Difficulty** | **Solution** | 
+| **#** | **Title** | **Difficulty** | **Solution** | **The Trick**
 |---|---|---|---|
 | 176 | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/176_Second_Highest_Salary.sql)|
 | 183 | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) | Easy | [Soln.](../master/Subquery/Simple-Subquery/183_Customers_Who_Never_Order.sql) |
