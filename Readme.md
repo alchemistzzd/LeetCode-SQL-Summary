@@ -201,7 +201,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/262_Trips_and_Users.sql) |
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/550_Game_Play_Analysis_IV.sql) || After joining if identical column names need to rename if result used as a new table
 | 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/569_Median_Employee_Salary.sql) |
-| 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/585_Investments_in_2016.sql) | 
+| 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/585_Investments_in_2016.sql) || ROUND() does not work on float by default, need to cast to decimal or numeric; when group by always think about if what you select is aggregated!
 | 597 | [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/) | Easy | [Soln.](../master/Subquery/Advanced-Subquery/597_Friend_Requests_I_Overall_Acceptance_Rate.sql) | 
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/601_Human_Traffic_of_Stadium.sql) | 
 | 1077 | [Project Employees II](https://leetcode.com/problems/project-employees-iii/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/1077_Project_Employees_III.sql) | 
