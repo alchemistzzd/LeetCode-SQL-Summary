@@ -198,7 +198,7 @@ And for the first draft, I mainly focus on **_T-SQL/MS SQL Server_**.
 
 | **#** | **Title** | **Difficulty** | **Solution** | **The Trick** | **Mistake** |
 |---|---|---|---|---|---|
-| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/262_Trips_and_Users.sql) |
+| 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/262_Trips_and_Users.sql) || where must be before group by
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/550_Game_Play_Analysis_IV.sql) || After joining if identical column names need to rename if result used as a new table
 | 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | Hard | [Soln.](../master/Subquery/Advanced-Subquery/569_Median_Employee_Salary.sql) |
 | 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | Medium | [Soln.](../master/Subquery/Advanced-Subquery/585_Investments_in_2016.sql) || ROUND() does not work on float by default, need to cast to decimal or numeric; when group by always think about if what you select is aggregated!
